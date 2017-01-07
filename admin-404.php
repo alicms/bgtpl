@@ -14,7 +14,7 @@
   <meta name="apple-mobile-web-app-title" content="Amaze UI" />
   <link rel="stylesheet" href="assets/css/amazeui.min.css"/>
   <link rel="stylesheet" href="assets/css/admin.css">
-
+    <script src="assets/js/jquery.min.js"></script>
     <style>
         .am-table{
             font-size: 12px;
@@ -48,6 +48,9 @@
   以获得更好的体验！</p>
 <![endif]-->
 
+
+
+
 <?php include "head.php";?>
 
 <div class="am-cf admin-main" >
@@ -56,7 +59,9 @@
 
 
 
-
+    <div data-am-stickyv style="width: 100%;height: 30px;background: red;display: none" id="bbbbb">
+        <a href="javascript:aaa()">流浪</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:bbb()">流浪</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:ccc()">再流浪</a>
+    </div>
 
 
 
@@ -118,6 +123,397 @@
             </div>
         </div>
 <!--头 e-->
+
+
+
+
+        <div class="am-tabs" data-am-tabs="{noSwipe: 1}" id="doc-tab-demo-1">
+            <ul class="am-tabs-nav am-nav am-nav-tabs" id="aaaaa">
+                <li class="am-active"><a href="javascript: void(0)">流浪</a></li>
+                <li><a href="javascript: void(0)">流浪</a></li>
+                <li><a href="javascript: void(0)">再流浪</a></li>
+            </ul>
+
+            <div class="am-tabs-bd">
+                <div class="am-tab-panel am-active">
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                </div>
+                <div class="am-tab-panel">
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                </div>
+                <div class="am-tab-panel">
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                    ...<br>
+                </div>
+            </div>
+        </div>
+
+
+        <script>
+
+
+
+
+
+            function aaa() {
+
+                alert($('#doc-tab-demo-1').tabs())
+                $('.admin-content').animate({scrollTop: '0px'}, 0);
+                $("#doc-tab-demo-1").tabs('open', 0)
+            }
+            function bbb() {
+
+
+                $('.admin-content').animate({scrollTop: '0px'}, 0);
+                $("#doc-tab-demo-1").tabs('open', 1)
+            }
+            function ccc() {
+
+
+                $('.admin-content').animate({scrollTop: '0px'}, 0);
+                $("#doc-tab-demo-1").tabs('open', 2)
+            }
+
+            
+            
+            
+            $(".admin-content").scroll(function(event) {
+                var aaa =  $("#aaaaa").position().top;
+                console.log(aaa);
+                if(aaa<=-30){
+                    $("#bbbbb").show();
+                }else if(aaa>0){
+                    $("#bbbbb").hide();
+                }
+
+
+            });
+
+
+        </script>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

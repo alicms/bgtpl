@@ -92,7 +92,7 @@
 
             <div class="am-u-md-12" style="padding-left: 0px;margin-bottom: 10px;">
                 <input type="text" value="" style="width: 50%;" class="am-u-md-6">
-                <img class=" am-u-md-6" style="width: 100px;float: none;margin-left: 10px"
+                <img class=" am-u-md-6" style="height: 50px;float: none;padding-left: 0px;padding-right: 0px;"
 
                      src="http://alicms.9hlh.com/api/identifying_code.php?w=112&h=40&rd=0.986833403352648">
             </div>
